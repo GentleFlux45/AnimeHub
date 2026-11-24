@@ -1,0 +1,8 @@
+{
+  "name": "Nighter — Anime Discovery",
+  "description": "Search thousands of anime, explore trending titles, save a watchlist, and find official streaming services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
